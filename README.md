@@ -17,7 +17,7 @@ This repository contains curated analysis, structured threat intelligence report
   Malware analysis, indicators of compromise, reverse-engineering notes.
 
 ## Author
-Sierra Peña — Cyber Threat Intelligence student specializing in adversary analysis, malware behavior, and campaign attribution.
+Sierra Penaa 
 
 ## Contact
 LinkedIn: *TODO: Add link later*
