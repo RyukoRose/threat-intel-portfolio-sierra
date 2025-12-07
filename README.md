@@ -1,4 +1,4 @@
-# Threat Intelligence Portfolio — Sierra Pena
+# Threat Intelligence Portfolio
 
 This repository contains curated analysis, structured threat intelligence reports, MITRE ATT&CK breakdowns, DFIR case studies, and malware analysis.
 
