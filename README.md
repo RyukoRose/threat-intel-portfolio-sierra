@@ -17,7 +17,7 @@ This repository contains curated analysis, structured threat intelligence report
   Malware analysis, indicators of compromise, reverse-engineering notes.
 
 ## Author
-Sierra Penaa 
+Sierra Pena
 
 ## Contact
 LinkedIn: *TODO: Add link later*
