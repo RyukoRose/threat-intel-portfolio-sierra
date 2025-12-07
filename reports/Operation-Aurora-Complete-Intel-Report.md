@@ -10,10 +10,19 @@ Multiple cybersecurity intelligence organizations assess with high confidence th
 
 
 ## 2. Background & Context
-- Discovery timeline
-- Targeted industries
-- Geographic regions
-- Suspected threat actor
+
+Operation Aurora became publicly known on January 12, 2010, when Google announced that it had been targeted by a sophisticated intrusion with goals centered on accessing proprietary data, including elements of its source code. Google’s disclosure prompted additional organizations; such as Adobe, Rackspace, Juniper Networks, and multiple major defense and manufacturing entities, to confirm that they had also been targeted.
+
+Preliminary investigations suggested that the operation had been active since at least mid 2009. The consistency in tactics, target selection, and operational sequencing strongly implied a coordinated campaign rather than isolated intrusions. A key strategic objective observed across victims was long-term intellectual property collection, especially surrounding platform development, proprietary algorithms, and internal communications.
+
+The campaign appears to have originated from China-based infrastructure with suspected ties to state-aligned interests. Multiple intelligence assessments have indicated that the threat actors possessed:  
+- Advanced knowledge of zero-day exploitation  
+- Structured operational planning  
+- Post-compromise reconnaissance capabilities  
+- Motivation aligned with geopolitical or technological advancement priorities  
+
+The incident is historically significant not only for its technical depth, but also because Google’s public response helped shift the industry from a culture of silent compromise toward transparent reporting and collaborative defense. This disclosure set early precedent for what would eventually become standard practice in regulated and critical infrastructure sectors, where intelligence sharing directly influences defensive readiness.
+
 
 ## 3. Technical Analysis
 ### 3.1 Initial Access
