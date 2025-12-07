@@ -20,5 +20,5 @@ This repository contains curated analysis, structured threat intelligence report
 Sierra Pena
 
 ## Contact
-LinkedIn: *TODO: Add link later*
+LinkedIn: https://www.linkedin.com/in/sierra-pena-044794246/
 GitHub: github.com/RyukoRose
