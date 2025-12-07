@@ -7,7 +7,17 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-orange)
 
 
-This repository contains curated analysis, structured threat intelligence reports, MITRE ATT&CK breakdowns, DFIR case studies, and malware analysis.
+## 🧭 Overview
+This repository documents my work in Threat Intelligence, MITRE ATT&CK breakdowns, DFIR methodology, and malware analysis.  
+Each report is structured to resemble real world Cyber Threat Intelligence deliverables.
+
+This portfolio demonstrates:
+- Attribution logic
+- TTP analysis mapped to MITRE
+- IOC documentation
+- Risk assessment
+- Executive communication
+- Defensive recommendations
 
 ## 📁 Repository Structure
 
@@ -25,7 +35,12 @@ This repository contains curated analysis, structured threat intelligence report
 
 ## Author
 Sierra Pena
+Cyber Threat Intelligence | Security+ Candidate (Exam: Dec 27, 2025)
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/sierra-pena-044794246/
 GitHub: github.com/RyukoRose
+
+## 📜 License
+This repository is licensed under the MIT License.  
+See `LICENSE` for full details.
