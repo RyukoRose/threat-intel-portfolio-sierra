@@ -39,6 +39,7 @@ Post-exploitation, attackers deployed custom trojans designed to provide stealth
 - Command execution payloads enabling remote tasking
 
 These backdoors established encrypted outbound communications to attacker-controlled infrastructure, enabling tasking, data staging, and persistence.
+**Confidence:** Medium (consistent with McAfee & industry reports)
 
 ### 3.4 Command & Control (C2) Infrastructure
 The malware communicated with external servers using HTTPS over standard port 443, blending in with normal outbound corporate web traffic to minimize detection. Several of the C2 domains resolved to servers hosted in Chinese IP space or were observed using dynamic DNS services, suggesting the attackers used operational security techniques to rotate infrastructure and reduce attribution risk.
@@ -49,7 +50,8 @@ Command and control functionality supported:
 - Data staging and exfiltration
 - System reconnaissance
 - Modular payload delivery
-
+  
+**Confidence:** Medium
 
 ## 4. MITRE ATT&CK Mapping
 
@@ -72,6 +74,8 @@ The following table summarizes the most relevant MITRE ATT&CK techniques observe
 | Command & Control  | T1071.001   | Application Layer Protocol: Web Protocols   | Backdoors communicated with C2 over HTTPS on TCP 443 to blend with normal web traffic. |
 | Command & Control  | T1090       | Proxy                                       | Use of intermediate infrastructure and dynamic DNS helped mask true operator locations. |
 | Exfiltration       | T1041       | Exfiltration Over C2 Channel                | Collected data and source code were exfiltrated via the same encrypted C2 channels used for tasking. |
+
+> **Confidence Notes:** Initial access and execution mappings = High confidence; persistence and escalation = Low-to-Medium confidence (industry inference).
 
 
 ## 5. Impact Assessment
