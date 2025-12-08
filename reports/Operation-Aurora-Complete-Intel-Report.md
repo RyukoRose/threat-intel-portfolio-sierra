@@ -259,5 +259,17 @@ This reinforces that **IOCs alone are insufficient for long-term defense**; defe
 5. McMillan, Robert. "Google Hackers Targeted Source Code of More Than 30 Companies" *Wired Magazine.* January 2010.  
    https://www.wired.com/2010/01/google-hack-attack/
 
+6. Walker, Kent. “Transparency in the shadowy world of cyberattacks”, July 19, 2022. 
+   https://blog.google/outreach-initiatives/public-policy/transparency-in-the-shadowy-world-of-cyberattacks/?utm_source=chatgpt.com
+
+7. Gardener, Bill. “Operation Aurora and Cyber-Espionage History”, in *Cyber-Espionage and Information Security* overview.
+   https://www.sciencedirect.com/topics/computer-science/operation-aurora?utm_source=chatgpt.com
+
+8. Shakarian, Paulo; Shakarian, Jana; Ruef, Andrew — “The Dragon and the Computer: Why Intellectual Property Theft is Compatible with Chinese Cyber-Warfare Doctrine”, arXiv preprint (2013).
+   https://arxiv.org/abs/1309.6450?utm_source=chatgpt.com
+
+9. TechTarget SearchSecurity — “Operation Aurora: Tips for thwarting zero-day attacks, unknown malware”, April 2010.
+   https://www.techtarget.com/searchsecurity/tip/Operation-Aurora-Tips-for-thwarting-zero-day-attacks-unknown-malware?utm_source=chatgpt.com
+
 
 
