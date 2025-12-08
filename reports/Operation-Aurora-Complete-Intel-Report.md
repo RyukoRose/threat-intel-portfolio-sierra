@@ -254,7 +254,6 @@ This reinforces that **IOCs alone are insufficient for long-term defense**; defe
    https://www.symantec.com/connect/blogs/operation-aurora
 
 4. Perlroth, Nicole. *This Is How They Tell Me the World Ends*. Bloomsbury Publishing, 2021.  
-   (Discussion of Operation Aurora and early disclosure culture)
 
 5. McMillan, Robert. "Google Hackers Targeted Source Code of More Than 30 Companies" *Wired Magazine.* January 2010.  
    https://www.wired.com/2010/01/google-hack-attack/
